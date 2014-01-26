@@ -1,0 +1,1 @@
+Pure SVG and JS game. Open the file world.svg in your browser and the game starts.
