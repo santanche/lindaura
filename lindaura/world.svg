@@ -93,6 +93,13 @@
      <rect id="bPlay" x="0" y="20" width="80" height="30" fill="#AAAAAA" />
      <text x="5" y="45" font-size="32" font-family="Arial" fill="#FFFFFF"> Play </text>
   </g>
-</g>   
+</g>
+
+<a xlink:href="story/lindaura-story.html" target="_blank">
+   <g transform="translate(520, 450)">
+     <rect id="bTest" x="0" y="20" width="80" height="30" fill="#000080" />
+     <text x="5" y="45" font-size="32" font-family="Arial" fill="#FFFFFF"> Story </text>
+   </g>
+</a>   
 
 </svg>
