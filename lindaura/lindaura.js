@@ -58,7 +58,6 @@ Lindaura.prototype = {
             p++;
          }
       }
-      alert(scrambleV);
    },
    
    moveSeq : function(commandSeq) {
